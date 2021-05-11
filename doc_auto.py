@@ -41,6 +41,8 @@ for file in list_of_files_in_dir:
 	department=document.tables[0].rows[1].cells[3].text
 	
 	business_unit=document.tables[0].rows[1].cells[1].text
+
+	budgetary_responsibility=document.tables[0].rows[8].cells[3].text
 	
 
 	job_type=document.tables[0].rows[2].cells[1].text
