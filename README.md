@@ -6,6 +6,25 @@ doc_auto-1-1.py - Transformsdocument to figure 4
 
 (Check article for figure reference)
 
+### Prerequisites
+
+1. [Install python!](https://realpython.com/installing-python/)
+
+2. Install python docx
+
+
+```
+pip install python-docx
+
+```
+3. Install python docxtpl
+
+```
+pip install docxtpl
+
+```
+
+
 ### How to run the script
 
 1. Clone the repository
